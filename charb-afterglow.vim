@@ -534,3 +534,5 @@ if has("gui_running") || &t_Co == 88 || &t_Co == 256
     delf <SID>grey_level
     delf <SID>grey_number
 endif
+
+" CK 2023
